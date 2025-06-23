@@ -16,7 +16,7 @@ The **Recipe Finder App** is a feature-rich, responsive, and stylish web applica
 ### 🧮 Sorting 
 - Sort recipes based on the number of ingredients (ascending/descending).
 
-### ❤️ Favorites
+### ❤️ Favorites 
 - Toggle favorite meals using heart emojis (❤️ / 🤍).
 - Persist favorites using localStorage.
 - View your favorites on a dedicated `/favorites` page.
