@@ -1,4 +1,4 @@
-# 🍽️ Recipe Finder App
+ # 🍽️ Recipe Finder App
 
 The **Recipe Finder App** is a feature-rich, responsive, and stylish web application built using **React**, designed to help users discover and explore meals from around the world using [TheMealDB API](https://www.themealdb.com). It includes live search with suggestions, filtering, sorting, animated recipe cards, and persistent favorites.
 
